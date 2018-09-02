@@ -1,27 +1,27 @@
 Spring Cloud
 
-#1. Features
-##I. Cloud Native Applications
-###2. Spring Cloud Context: Application Context Services
-####2.1. The Bootstrap Application Context
-####2.2. Application Context Hierarchies
-####2.3. Changing the Location of Bootstrap Properties
-####2.4. Overriding the Values of Remote Properties
-####2.5. Customizing the Bootstrap Configuration
-####2.6. Customizing the Bootstrap Property Sources
-####2.7. Logging Configuration
-####2.8. Environment Changes
-####2.9. Refresh Scope
-####2.10. Encryption and Decryption
-####2.11. Endpoints
-###3. Spring Cloud Commons: Common Abstractions
-####3.1. @EnableDiscoveryClient
-#####3.1.1. Health Indicator
-####3.2. ServiceRegistry
-#####3.2.1. ServiceRegistry Auto-Registration
-#####3.2.2. Service Registry Actuator Endpoint
-####3.3. Spring RestTemplate as a Load Balancer Client
-####3.4. Spring WebClient as a Load Balancer Client
+# 1. Features
+## I. Cloud Native Applications
+### 2. Spring Cloud Context: Application Context Services
+#### 2.1. The Bootstrap Application Context
+#### 2.2. Application Context Hierarchies
+#### 2.3. Changing the Location of Bootstrap Properties
+#### 2.4. Overriding the Values of Remote Properties
+#### 2.5. Customizing the Bootstrap Configuration
+#### 2.6. Customizing the Bootstrap Property Sources
+#### 2.7. Logging Configuration
+#### 2.8. Environment Changes
+#### 2.9. Refresh Scope
+#### 2.10. Encryption and Decryption
+#### 2.11. Endpoints
+### 3. Spring Cloud Commons: Common Abstractions
+#### 3.1. @EnableDiscoveryClient
+##### 3.1.1. Health Indicator
+#### 3.2. ServiceRegistry
+##### 3.2.1. ServiceRegistry Auto-Registration
+##### 3.2.2. Service Registry Actuator Endpoint
+#### 3.3. Spring RestTemplate as a Load Balancer Client
+#### 3.4. Spring WebClient as a Load Balancer Client
 #####3.4.1. Retrying Failed Requests
 ####3.5. Multiple RestTemplate objects
 ####3.6. Spring WebFlux WebClient as a Load Balancer Client
